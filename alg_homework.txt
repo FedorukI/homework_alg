@@ -1,0 +1,4 @@
+test_1 = O(n)
+test_2 = O(n^2)
+test_3 = -
+test_4 = O(log n)
